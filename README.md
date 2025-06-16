@@ -1,5 +1,5 @@
 # PythonMiniProjects
-Mini Python Projects With Python Libraries (Pandas, Matplotlib)
+Mini Projects With Python Libraries (Pandas, Matplotlib)
 
 # Datasets Used
 - **File:** [`YouTubestatsAnalysis.ipynb`](./YouTubestatsAnalysis.ipynb)  
